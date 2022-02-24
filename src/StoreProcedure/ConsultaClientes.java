@@ -25,6 +25,7 @@ public class ConsultaClientes {
 
         }catch (SQLException e){
 
+            e.getMessage();
 
         }
     }
